@@ -18,9 +18,13 @@ This module requires Python 3.6 or higher and the `aiohttp` library to handle as
 ## Installation
 
 To install directly from GitHub:
-
 ```bash
 pip install git+https://github.com/DonMatraca/nitrado_api.git
+```
+
+To Install in your command prompt run:
+```bash
+pip install nitrado_api
 ```
 
 ## Basic Usage
