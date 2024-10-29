@@ -62,5 +62,5 @@ Main Methods
 
 ## Contributions
 
-Contributions are welcome. If you find an issue or have a suggestion, please open an issue or make a pull request on the GitHub repository.
+Contributions are welcome this is a first stage of developement and lots of things can fail to work. If you find an issue or have a suggestion, please open an issue or make a pull request on the GitHub repository or contact me on Discord as DonMatraca#2756.
 
