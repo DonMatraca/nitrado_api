@@ -1,6 +1,6 @@
-# Nitrado API
+# Nitrado DayZ API
 
-Python module for easily interacting with the Nitrado API, allowing game server management and common operations like whitelist management, event configuration, file validation, and more.
+Python module for easily interacting with the Nitrado API (DayZ gameserver oriented), allowing game server management and common operations like whitelist management, event configuration, file validation, and more.
 
 ## Features
 
@@ -20,7 +20,7 @@ This module requires Python 3.6 or higher and the `aiohttp` library to handle as
 To install directly from GitHub:
 
 ```bash
-pip install git+https://github.com/yourusername/nitrado_api.git
+pip install git+https://github.com/DonMatraca/nitrado_api.git
 ```
 
 ## Basic Usage
@@ -62,5 +62,5 @@ Main Methods
 
 ## Contributions
 
-Contributions are welcome. If you find an issue or have a suggestion, please open an issue or make a pull request on the GitHub repository.
+Contributions are welcome this is a first stage of developement and lots of things can fail to work. If you find an issue or have a suggestion, please open an issue or make a pull request on the GitHub repository or contact me on Discord as DonMatraca#2756.
 
