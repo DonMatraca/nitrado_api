@@ -5,8 +5,7 @@ setup(
     version="0.1",
     packages=find_packages(),
     install_requires=[
-        "aiohttp",
-        "ftplib"
+        "aiohttp"
     ],
     author="DonMatraca",
     author_email="r.gallogomez@gmail.com",
