@@ -1,6 +1,6 @@
-# Nitrado API
+# Nitrado DayZ API
 
-Python module for easily interacting with the Nitrado API, allowing game server management and common operations like whitelist management, event configuration, file validation, and more.
+Python module for easily interacting with the Nitrado API (DayZ gameserver oriented), allowing game server management and common operations like whitelist management, event configuration, file validation, and more.
 
 ## Features
 
