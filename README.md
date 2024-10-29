@@ -20,7 +20,7 @@ This module requires Python 3.6 or higher and the `aiohttp` library to handle as
 To install directly from GitHub:
 
 ```bash
-pip install git+https://github.com/yourusername/nitrado_api.git
+pip install git+https://github.com/DonMatraca/nitrado_api.git
 ```
 
 ## Basic Usage
